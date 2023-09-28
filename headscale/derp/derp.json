@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "201": {
+      "RegionID": 201,
+      "RegionCode": "gz1",
+      "RegionName": "Guangzhiu-1",
+      "Nodes": [
+        {
+          "Name": "201a",
+          "RegionID": 201,
+          "DERPPort": 443,
+          "HostName": "139.9.208.177",
+          "IPv4": "139.9.208.177",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
