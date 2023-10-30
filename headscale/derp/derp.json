@@ -8,9 +8,9 @@
         {
           "Name": "201a",
           "RegionID": 201,
-          "DERPPort": 443,
-          "HostName": "139.9.208.177",
-          "IPv4": "139.9.208.177",
+          "DERPPort": 8443,
+          "HostName": "121.37.252.128",
+          "IPv4": "121.37.252.128",
           "InsecureForTests": true
         }
       ]
